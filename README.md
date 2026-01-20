@@ -112,7 +112,13 @@ Connect Power BI to Redshift to create dashboard:
 ![dashboard](Images/dashboard1.png)
 
 
-## Author
-Esraa Ahmed | <a href="https://linkedin.com/in/esraa-ahmed-ibrahim2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esraa-ahmed-ibrahim2" height="15" width="15" /></a>
+## Learning Implementation Notes
 
-Created on 15/08/2022
+This project was implemented by studying an open-source Redshift data warehouse.
+
+Key learnings:
+- Star schema design using fact and dimension tables
+- Loading data into Amazon Redshift
+- Writing analytical SQL queries
+- Understanding data warehousing best practices
+
